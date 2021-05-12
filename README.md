@@ -1,3 +1,3 @@
 # Hike Happy
 
-Hike Happy has been created with something very specific in mind: to help others explore New Zealand's interior.
+Hike Happy is being created with something very specific in mind – to help others enjoy exploring New Zealand's outdoors.
